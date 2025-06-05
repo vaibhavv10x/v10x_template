@@ -1,0 +1,23 @@
+{
+  "name": "v10x_template",
+  "version": "1.0.0",
+  "description": "templates for modern business applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavv10x/v10x_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavv10x/v10x_template/issues"
+  },
+  "homepage": "https://github.com/vaibhavv10x/v10x_template#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

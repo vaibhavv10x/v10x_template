@@ -5,6 +5,18 @@ app_description = "templates for modern business applications"
 app_email = "vaibhav@v10x.com"
 app_license = "mit"
 
+
+
+
+
+
+#print("v10x_template hooks loaded")
+web_include_css = [
+    "/assets/v10x_template/css/login.css"
+]
+
+web_include_js ="/assets/v10x_template/js/block_frappe_css.js"
+
 # Apps
 # ------------------
 
