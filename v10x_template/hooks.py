@@ -11,11 +11,15 @@ app_license = "mit"
 
 
 #print("v10x_template hooks loaded")
-web_include_css = [
-    "/assets/v10x_template/css/login.css"
-]
+#web_include_css = [
+#    "/assets/v10x_template/css/login.css"
+#
+#]
 
-web_include_js ="/assets/v10x_template/js/block_frappe_css.js"
+web_include_js = [
+	"/assets/v10x_template/js/block_frappe_css.js",
+	"/assets/v10x_template/js/web_include_css.js"
+]
 
 # Apps
 # ------------------
